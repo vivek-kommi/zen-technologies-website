@@ -1,0 +1,230 @@
+{
+  "cisr": {
+    "file": "assets/img/products/cisr.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/6f6dd-6b664-cisr.webp",
+    "label": "CISR (Containerised Indoor Shooting Range)"
+  },
+  "shoot-house": {
+    "file": "assets/img/products/shoot-house.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/c8f22-af573-shoot-house.webp",
+    "label": "Shoot House"
+  },
+  "mfts": {
+    "file": "assets/img/products/mfts.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/5d1d1-zen-multi-functional-target-system.webp",
+    "label": "Multi-Functional Target System (MFTS)"
+  },
+  "tank-targets": {
+    "file": "assets/img/products/tank-targets.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/1ddfc-zen-tank-rail-target.webp",
+    "label": "Tank Targets (MTTM/STTM)"
+  },
+  "air-to-ground-scoring": {
+    "file": "assets/img/products/air-to-ground-scoring.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/006c7-air_to_ground.webp",
+    "label": "Air-to-Ground Firing Range Scoring System"
+  },
+  "mcs": {
+    "file": "assets/img/products/mcs.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/b140d-b1ea6-mcs.webp",
+    "label": "Master Control Station (MCS)"
+  },
+  "csafr": {
+    "file": "assets/img/products/csafr.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/zen-containerized-tubular-shooting-range.webp",
+    "label": "CSAFR (Containerised Small Arms Firing Range)"
+  },
+  "he36s": {
+    "file": "assets/img/products/he36s.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/698f6-he36s.webp",
+    "label": "HE36S Hand Grenade Simulator"
+  },
+  "acts": {
+    "file": "assets/img/products/acts.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/adde3-11fce-acts.webp",
+    "label": "ZEN ACTS (Armour Combat Training System)"
+  },
+  "tacsim-its": {
+    "file": "assets/img/products/tacsim-its.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/zen-tacsim-with-its.webp",
+    "label": "TacSim Indoor Tracking System"
+  },
+  "tacsim-tactical-engagement": {
+    "file": "assets/img/products/tacsim-tactical-engagement.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/e1e28-tactical-engagement-simulator.webp",
+    "label": "TacSim Tactical Engagement Simulator"
+  },
+  "81mm-mortar-simulator": {
+    "file": "assets/img/products/81mm-mortar-simulator.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/84ac3-81mm-mis-2-.webp",
+    "label": "81mm Mortar Integrated Simulator"
+  },
+  "3ads-anti-aircraft": {
+    "file": "assets/img/products/3ads-anti-aircraft.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/f085d-3ad-igla-.webp",
+    "label": "Anti-Aircraft Air Defence Simulator (3ADS)"
+  },
+  "atgm-simulator": {
+    "file": "assets/img/products/atgm-simulator.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/acce1-962b3-atgm2_600x400.webp",
+    "label": "ATGM Simulator"
+  },
+  "agl-simulator": {
+    "file": "assets/img/products/agl-simulator.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/90c98-agl.webp",
+    "label": "Automatic Grenade Launcher Simulator"
+  },
+  "iwts": {
+    "file": "assets/img/products/iwts.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/zen-technologies-iwts.webp",
+    "label": "IWTS (Infantry Weapons Training Simulator)"
+  },
+  "uav-mission-simulator": {
+    "file": "assets/img/products/uav-mission-simulator.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/cbdc2-12f94-uav.webp",
+    "label": "UAV Mission Simulator"
+  },
+  "mmg-simulator": {
+    "file": "assets/img/products/mmg-simulator.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/b0028-mmg_image.webp",
+    "label": "Medium Machine Gun Simulator"
+  },
+  "awesim": {
+    "file": "assets/img/products/awesim.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/d724d-awesim.webp",
+    "label": "AWeSim (Advanced Weapons Simulator)"
+  },
+  "ctc": {
+    "file": "assets/img/products/ctc.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/15588-157b0-49b3d-ctc.webp",
+    "label": "Combat Training Centre (CTC)",
+    "note": "Flagship category image — reuse as Combat Training Centre category banner"
+  },
+  "anti-drone-system": {
+    "file": "assets/img/products/anti-drone-system.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/zen-anti-drone-system-new.webp",
+    "label": "Anti Drone System (CUAS)",
+    "note": "Flagship category image — reuse as Anti Drone System category banner"
+  },
+  "sts-image": {
+    "file": "assets/img/products/sts-image.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/4d1c2-sts_image.webp",
+    "label": "Smart Target System (STS) — verify exact product before using"
+  },
+  "wgs-image": {
+    "file": "assets/img/products/wgs-image.webp",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/webp/0a283-dad3e-07e33-wgs_1.webp",
+    "label": "Weapon/Gunnery Simulator (WGS) — verify exact product before using"
+  },
+  "parashu": {
+    "file": "assets/img/products/parashu.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/parashu-1.jpg",
+    "label": "RCWS MMG - Parashu",
+    "page": "https://www.zentechnologies.com/rcws-mmg-parashu.php"
+  },
+  "fanish": {
+    "file": "assets/img/products/fanish.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/fanish-1.jpg",
+    "label": "Tank-Mounted RCWS HMG - Fanish",
+    "page": "https://www.zentechnologies.com/tank-mounted-rcws-hmg-fanish.php"
+  },
+  "sharur": {
+    "file": "assets/img/products/sharur.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/sharur-1.jpg",
+    "label": "Naval RCWS HMG - Sharur",
+    "page": "https://www.zentechnologies.com/navel-rcws-hmg-sharur.php"
+  },
+  "prahasta": {
+    "file": "assets/img/products/prahasta.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/prahasta.jpg",
+    "label": "Prahasta",
+    "page": "https://www.zentechnologies.com/prahasta.php"
+  },
+  "hawkeye": {
+    "file": "assets/img/products/hawkeye.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/hawkeye-1.jpg",
+    "label": "Hawkeye",
+    "page": "https://www.zentechnologies.com/hawkeye.php"
+  },
+  "durgam": {
+    "file": "assets/img/products/durgam.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/durgam.jpg",
+    "label": "Artillery Rugged Camera - Durgam",
+    "page": "https://www.zentechnologies.com/artillery-rugged-camera-durgam.php",
+    "note": "Flagship category image — reuse as RCWS category banner"
+  },
+  "trikaal-cornershot": {
+    "file": "assets/img/products/trikaal-cornershot.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/trikaal-csws-zen.jpg",
+    "label": "CornerShot / TRIKAAL Advanced Corner Shot Weapon System (CSWS)",
+    "page": "https://www.zentechnologies.com/cornershot-advanced-corner-shot-weapon-system-trikaal-csws.php"
+  },
+  "shootedge": {
+    "file": "assets/img/products/shootedge.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/shootedge-1.jpg",
+    "label": "ShootEdge",
+    "page": "https://www.zentechnologies.com/shootedge.php"
+  },
+  "tank-zeroing-system": {
+    "file": "assets/img/products/tank-zeroing-system.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/00a72-tank-zeroing-system.jpg",
+    "label": "Tank Zeroing System",
+    "page": "https://www.zentechnologies.com/tank-zeroing-system.php"
+  },
+  "lomah": {
+    "file": "assets/img/products/lomah.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/37eca-lomah-smart-target-system.jpg",
+    "label": "LOMAH Smart Electronic Target System",
+    "page": "https://www.zentechnologies.com/lomah-smart-electronic-target-system.php"
+  },
+  "t72-tank-driving-simulator": {
+    "file": "assets/img/products/t72-tank-driving-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/f235c-zen-t-72-driving-simulator.jpg",
+    "label": "T-72 Tank Driving Simulator",
+    "page": "https://www.zentechnologies.com/zen-t72-tank-driving-simulator.php"
+  },
+  "t72-tank-gunnery-simulator": {
+    "file": "assets/img/products/t72-tank-gunnery-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/91b22-t72_gunnery_simulator.jpg",
+    "label": "T-72 Tank Gunnery Simulator",
+    "page": "https://www.zentechnologies.com/zen-t72-tank-gunnery-simulator.php"
+  },
+  "t72-crew-gunnery-simulator": {
+    "file": "assets/img/products/t72-crew-gunnery-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/b1da1-zen-t-72-crew-gunnery-simulator.jpg",
+    "label": "T-72 Crew Gunnery Simulator",
+    "page": "https://www.zentechnologies.com/zen-t72-crew-gunnery-simulator.php"
+  },
+  "t90-tank-driving-simulator": {
+    "file": "assets/img/products/t90-tank-driving-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/ef83e-zen-t-90-ds.jpg",
+    "label": "T-90 Tank Driving Simulator",
+    "page": "https://www.zentechnologies.com/zen-t90-tank-driving-simulator.php"
+  },
+  "t90-tank-gunnery-simulator": {
+    "file": "assets/img/products/t90-tank-gunnery-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/a2471-t90_gunnery_simulator.jpg",
+    "label": "T-90 Tank Gunnery Simulator",
+    "page": "https://www.zentechnologies.com/zen-t90-tank-gunnery-simulator.php"
+  },
+  "t90-crew-gunnery-simulator": {
+    "file": "assets/img/products/t90-crew-gunnery-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/a9d0e-t-90-cgs.jpg",
+    "label": "T-90 Crew Gunnery Simulator",
+    "page": "https://www.zentechnologies.com/zen-t90-crew-gunnery-simulator.php"
+  },
+  "icv-bmp2-driving-simulator": {
+    "file": "assets/img/products/icv-bmp2-driving-simulator.jpg",
+    "source_url": "https://www.zentechnologies.com/assets/uploads/files/1cd6d-zen-infantry-combat-vehicle-driving-simulator.jpg",
+    "label": "Infantry Combat Vehicle (BMP-II) Driving Simulator",
+    "page": "https://www.zentechnologies.com/zen-infantry-combat-vehicle-driving-simulator.php"
+  },
+  "_category_banners": {
+    "live-ranges": "cisr",
+    "live-simulation": "acts",
+    "virtual-simulation": "iwts",
+    "combat-training-centre": "ctc",
+    "anti-drone-system": "anti-drone-system",
+    "rcws": "durgam"
+  }
+}
