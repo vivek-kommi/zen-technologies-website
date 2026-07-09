@@ -271,6 +271,9 @@ p { margin: 0 0 1em; }
   .nav-cta .btn span.full { display: none; }
   .nav-cta .btn span.short { display: inline; }
 }
+@media (max-width: 480px) {
+  .main-nav { width: 100vw; border-left: none; }
+}
 
 /* ==========================================================================
    HERO — deep navy/teal band (brand colours, dramatic dark moment)
