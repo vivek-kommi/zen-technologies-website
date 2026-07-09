@@ -257,8 +257,10 @@ p { margin: 0 0 1em; }
   .main-nav > ul { flex-direction: column; align-items: stretch; width: 100%; }
   .main-nav > ul > li > a, .main-nav > ul > li > button { width: 100%; justify-content: space-between; padding: 16px 6px; border-bottom: 1px solid var(--line); }
   .mega { position: static; transform: none; width: 100%; opacity: 1; visibility: visible; pointer-events: auto; box-shadow: none;
-    display: none; grid-template-columns: 1fr; padding: 8px 0 8px 12px; border: none; background: none; }
+    display: none; grid-template-columns: 1fr; padding: 8px 0; border: none; background: none; }
   .main-nav li.expanded .mega { display: grid; }
+  .mega a { align-items: center; text-align: center; }
+  .mega .mega-count { justify-content: center; }
   .main-nav li:hover .caret { transform: none; }
   .main-nav li.expanded .caret { transform: rotate(180deg); }
   .nav-toggle { display: flex; flex-direction: column; gap: 5px; background: none; border: none; padding: 8px; z-index: 110; }
