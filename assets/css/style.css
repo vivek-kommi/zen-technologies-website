@@ -260,6 +260,7 @@ p { margin: 0 0 1em; }
   .mega { position: static; transform: none; width: 100%; max-width: 100%; opacity: 1; visibility: visible; pointer-events: auto; box-shadow: none;
     display: none; padding: 4px 0; border: none; background: none; box-sizing: border-box; }
   .main-nav li.expanded .mega { display: block; }
+  .main-nav li:hover .mega, .mega:hover { transform: none; }
   .mega a { display: block; width: 100%; max-width: 100%; box-sizing: border-box; text-align: center; padding: 10px 8px; }
   .mega .mega-name, .mega .mega-desc { max-width: 100%; }
   .mega .mega-count { justify-content: center; margin-top: 8px; padding-top: 8px; max-width: 100%; }
